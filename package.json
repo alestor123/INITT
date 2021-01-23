@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/alestor123/NATURAL-EVENTS#readme",
   "dependencies": {
-    "axios": "^0.21.1"
+    "axios": "^0.21.1",
+    "chalk": "^4.1.0",
+    "moment": "^2.29.1"
   }
 }
