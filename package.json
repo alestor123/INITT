@@ -1,0 +1,19 @@
+{
+  "name": "natural-events",
+  "version": "1.0.0",
+  "description": "This is a simple code for getting events occuring in nature using nasa api",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alestor123/NATURAL-EVENTS.git"
+  },
+  "author": "Alestor Aldous",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alestor123/NATURAL-EVENTS/issues"
+  },
+  "homepage": "https://github.com/alestor123/NATURAL-EVENTS#readme"
+}
